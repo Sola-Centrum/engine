@@ -2,7 +2,7 @@
     <img width="360" src="./apps/member-profile/public/images/propel2excel-wordmark.png" />
 </h1>
 
-<p align="center"><b>engine</b>: The open-source software that powers the propel2excel community experience. ✊🏿✊🏾✊🏽✊🏼</p>
+<p align="center"><b>Engine</b>: The open-source software that powers the propel2excel community experience. ✊🏿✊🏾✊🏽✊🏼</p>
 
 <h4 align="center">
   <a href="https://github.com/propel2excelorg/engine/blob/main/CONTRIBUTING.md">How to Contribute</a> |
