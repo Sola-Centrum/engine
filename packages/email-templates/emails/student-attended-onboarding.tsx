@@ -14,7 +14,7 @@ export function StudentAttendedOnboardingEmail({
   return (
     <Email.Template>
       <Email.Preview>
-        Thanks for attending your ColorStack onboarding session! Here's what's
+        Thanks for attending your propel2excel onboarding session! Here's what's
         next for you:
       </Email.Preview>
 
@@ -22,21 +22,21 @@ export function StudentAttendedOnboardingEmail({
         <Email.Text>Hi {firstName},</Email.Text>
 
         <Email.Text>
-          Thank you for attending your ColorStack onboarding session! We're
+          Thank you for attending your propel2excel onboarding session! We're
           excited to have you be an active member in our community. Here's a
           recap of every thing you learned today:
         </Email.Text>
 
         <Email.Link href="https://docs.google.com/document/d/1wp0wq4nwVHiRNOtkiPnpqJ76oEkG6G6BRXyGmph5DXU/edit?usp=sharing">
-          ColorStack Onboarding One-Pager
+          propel2excel Onboarding One-Pager
         </Email.Link>
 
         <Email.Text>
           Also, be sure to sign into your{' '}
-          <Email.Link href="https://app.colorstack.io">
+          <Email.Link href="https://app.propel2excel.io">
             Member Profile
           </Email.Link>{' '}
-          to track your activation progress and get access to ColorStack's
+          to track your activation progress and get access to propel2excel's
           resources! Please update your work and education history so we have
           all of your relevant info handy. If you need any assistance, send a
           message in the #product-help Slack channel.
@@ -45,7 +45,7 @@ export function StudentAttendedOnboardingEmail({
         {studentsInSession.length > 0 && (
           <>
             <Email.Text>
-              Additionally, here are your fellow ColorStack members that
+              Additionally, here are your fellow propel2excel members that
               attended your onboarding session. Be sure to connect with them on
               LinkedIn and stay in touch! 🤝
             </Email.Text>

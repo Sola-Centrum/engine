@@ -1,11 +1,11 @@
-<h1 align="center" href="https://github.com/colorstackorg/oyster">
+<h1 align="center" href="https://github.com/colorstackorg/engine">
     <img width="360" src="./apps/member-profile/public/images/colorstack-wordmark.png" />
 </h1>
 
-<p align="center"><b>Oyster</b>: The open-source software that powers the ColorStack community experience. ✊🏿✊🏾✊🏽✊🏼</p>
+<p align="center"><b>engine</b>: The open-source software that powers the ColorStack community experience. ✊🏿✊🏾✊🏽✊🏼</p>
 
 <h4 align="center">
-  <a href="https://github.com/colorstackorg/oyster/blob/main/CONTRIBUTING.md">How to Contribute</a> |
+  <a href="https://github.com/colorstackorg/engine/blob/main/CONTRIBUTING.md">How to Contribute</a> |
   <a href="https://colorstack.org">Website</a> |
   <a href="https://app.colorstack.io/apply">Family Application</a>
 </h4>
@@ -110,8 +110,8 @@ Please see our [contributing guide](./CONTRIBUTING.md)! 👋
 
 A heartfelt thanks to our ColorStack members for their contributions! 🙏
 
-<a href="https://github.com/colorstackorg/oyster/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=colorstackorg/oyster" />
+<a href="https://github.com/colorstackorg/engine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=colorstackorg/engine" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).

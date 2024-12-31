@@ -20,7 +20,7 @@ describe(getCookie.name, () => {
   });
 
   test('If the cookie string contains the name of the cookie and other cookies...', () => {
-    const result = getCookie('name=Rami; email=rami@colorstack.org;', 'name');
+    const result = getCookie('name=Rami; email=rami@propel2excel.org;', 'name');
 
     expect(result).toEqual('Rami');
   });

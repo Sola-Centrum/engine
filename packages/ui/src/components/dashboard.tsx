@@ -60,13 +60,13 @@ Dashboard.CloseMenuButton = function CloseMenuButton() {
   );
 };
 
-Dashboard.ColorStackLogo = function ColorStackLogo() {
+Dashboard.propel2excelLogo = function propel2excelLogo() {
   return (
     <Link to="/">
       <img
-        alt="ColorStack Wordmark"
+        alt="propel2excel Wordmark"
         height={21}
-        src="/images/colorstack-wordmark.png"
+        src="/images/propel2excel-wordmark.png"
         width={140}
       />
     </Link>

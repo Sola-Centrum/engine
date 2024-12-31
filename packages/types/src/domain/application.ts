@@ -44,7 +44,7 @@ export const Application = Student.pick({
           value.endsWith('.edu') ||
           value.endsWith('.ca') ||
           value.endsWith('mymdc.net') ||
-          value.endsWith('@colorstack.org')
+          value.endsWith('@propel2excel.org')
         );
       }, 'Must be a valid .edu email.')
       .transform((value) => {

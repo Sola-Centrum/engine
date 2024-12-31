@@ -61,7 +61,7 @@ export type MixpanelEvent = {
       | 'Directory'
       | 'Events'
       | 'Home'
-      | 'Last Week in ColorStack'
+      | 'Last Week in propel2excel'
       | 'Opportunities'
       | 'Points'
       | 'Profile'

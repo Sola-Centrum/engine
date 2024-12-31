@@ -29,7 +29,7 @@ Public.Layout = function Layout({ children }: PropsWithChildren) {
   return (
     <main
       className={cx(
-        'min-h-screen w-screen bg-[url(/images/colorstack-background.png)] p-4',
+        'min-h-screen w-screen bg-[url(/images/propel2excel-background.png)] p-4',
         'sm:p-8'
       )}
     >

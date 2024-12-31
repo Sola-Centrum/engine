@@ -29,7 +29,7 @@ export class ErrorWithContext extends Error {
   }
 }
 
-export class ColorStackError extends ErrorWithContext {
+export class propel2excelError extends ErrorWithContext {
   constructor() {
     super();
   }

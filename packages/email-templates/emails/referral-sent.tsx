@@ -12,7 +12,7 @@ export function ReferralSentEmail({
   return (
     <Email.Template>
       <Email.Preview>
-        {referrerFirstName} {referrerLastName} referred you to join ColorStack!
+        {referrerFirstName} {referrerLastName} referred you to join propel2excel!
       </Email.Preview>
 
       <Email.Main>
@@ -20,7 +20,7 @@ export function ReferralSentEmail({
 
         <Email.Text>
           {referrerFirstName} {referrerLastName} referred you to join
-          ColorStack! Apply to join our community by clicking the button below.
+          propel2excel! Apply to join our community by clicking the button below.
         </Email.Text>
 
         <Email.Button href={applicationUri}>Apply Now</Email.Button>

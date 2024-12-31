@@ -10,7 +10,7 @@ export function OneTimeCodeSentEmail({
   return (
     <Email.Template>
       <Email.Preview>
-        Your ColorStack one-time code is valid for 10 minutes. Use it while it's
+        Your propel2excel one-time code is valid for 10 minutes. Use it while it's
         hot!
       </Email.Preview>
 
